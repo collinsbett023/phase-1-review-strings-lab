@@ -2,4 +2,4 @@
 let currentUser = 'Collins'
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`
 const excitedWelcomeMessage = `WELCOME TO FLATBOOK, ${currentUser.toUpperCase()}!`
-const shortGreeting = `Welcome, C!`
+const shortGreeting = `Welcome, ${currentUser.charAt(0)}!`
